@@ -1,0 +1,47 @@
+.vr {
+    border: silver 10px solid;
+   
+    border-image-slice: 27 fill;
+  
+    padding: 10px;
+    color: white;
+    text-align: justify;
+    
+    position: relative;
+     /* ajustar los valores para mover la imagen */
+    
+   
+    right: -300px;
+   
+   
+  }
+
+  h1{
+
+    padding: 100px;
+  }
+
+  h2{
+   
+   
+    position: relative;
+    top: -450px;
+    right:  -999px;
+  }
+  .informacion {
+         font-family: sans-serif;
+         border: 10px solid #f6f6f6;
+         background: #f6faf8;
+         height: 240px;
+         width: 250px;
+         padding: 15px;
+         margin: 15px;
+      
+     
+       position: relative;
+      top: -440px;
+      right:  -888px; 
+      border: silver 5px solid;
+   
+    border-image-slice: 27 fill;
+  }
